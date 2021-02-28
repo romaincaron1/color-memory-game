@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorMemory</string>
+    <string name="inscription_button">Inscription</string>
+    <string name="connexion_button">Connexion</string>
+    <string name="mail_hint">Adresse e-mail</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="valid_button">Valider</string>
+    <string name="mail_title">Adresse e-mail :</string>
+    <string name="password_title">Mot de passe :</string>
+    <string name="firstName_hint">Prénom</string>
+    <string name="name_hint">Nom</string>
+</resources>
