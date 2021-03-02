@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ColorMemory">
-        <activity android:name=".GameMenu"></activity>
+        <activity android:name=".Game"></activity>
+        <activity android:name=".GameMenu" />
         <activity android:name=".Inscription" />
         <activity android:name=".Connexion" />
         <activity android:name=".MainActivity">

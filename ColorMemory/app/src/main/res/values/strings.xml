@@ -9,4 +9,5 @@
     <string name="password_title">Mot de passe :</string>
     <string name="firstName_hint">Prénom</string>
     <string name="name_hint">Nom</string>
+    <string name="difficulty_title">Choisissez votre difficulté</string>
 </resources>
