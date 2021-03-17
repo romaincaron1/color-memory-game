@@ -10,5 +10,6 @@
     <string name="firstName_hint">Prénom</string>
     <string name="name_hint">Nom</string>
     <string name="difficulty_title">Choisissez votre difficulté</string>
-    <string name="game_difficulty_title">Mode </string>
+    <string name="game_difficulty_title">Mode</string>
+    <string name="start_button">Commencer</string>
 </resources>
